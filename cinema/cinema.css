@@ -1,0 +1,187 @@
+#tabel2{
+	float: right;
+border : solid;
+width: 75%;
+height: 300px;
+
+margin-top: 30px;
+
+}
+
+#tabel1{
+	
+ border: solid;
+ 
+
+width: 70%;
+height: 300px;
+
+margin-left: 150px;
+margin-top: 30px;
+}
+
+
+#tabel3{
+	width: 70%;
+height: 350px;
+margin-left: 150px;
+margin-top: 30px;
+border : solid;
+}
+
+#tabel4{
+	/*float: right;*/
+border :  solid;
+
+margin-top: 30px;
+  width: 75%;
+height: 350px;
+
+}
+
+#div1{
+	width: 50%;
+	margin-top: 30px;
+	float: left;
+}
+
+#div2{
+	width: 50%;
+	 margin-top: 30px;
+	float: right;
+}
+
+#div3{
+	width: 50%;
+	float: left;
+	margin-top: 30px;
+	height: 500px;
+}
+
+#div4{
+	width: 50%;
+	float: right;
+	margin-top: 30px;
+	height: 500px;
+
+}
+
+#d4,#d9,#d49,#d44,#e0,#e5,#e45,#e40{
+	opacity: 0;
+}
+
+#s5{
+	border: 0px white;
+	opacity: 0;
+}
+#b0,#b6,#b12,#b18,#b24,#b30,#b36,#b42,#b1{
+	
+	opacity: 0;
+}
+
+#totalCost{
+	width: 40px;
+
+}
+
+td{
+	text-align: center;
+}
+
+#hide{
+	height: 130px;
+	margin-top: 380px;
+	background-color: #00ffe4;
+
+}
+
+.inputStyle{
+	margin-top: 10px;
+	font-size: 15px;
+	background-color: lightgoldenrodyellow;
+
+}
+
+#img1{
+	width: 1000px;
+	height: 20px;
+	margin-left: 170px;
+	display: none;
+}
+#img2{
+	width: 1000px;
+	height: 20px;
+	margin-left: 170px;
+	display: none;
+	margin-top: 20px;
+}
+#signImg{
+	width: 50px;
+	float: left;
+	height: 250px;
+	margin-left: 30px;
+	margin-top: 40px;
+	display: none;
+}
+
+#signImg2{
+	width: 50px;
+	float: right;
+	height: 250px;
+	margin-right: 90px;
+	margin-top: 40px;
+	display: none;
+	margin-left: 30px;
+}
+#signImg3{
+	width: 50px;
+	float: left;
+	height: 250px;
+	margin-left: 30px;
+	margin-top: 40px;
+	display: none;
+}
+
+#signImg4{
+	width: 50px;
+	float: right;
+	height: 250px;
+	margin-right: 90px;
+	margin-top: 40px;
+	padding-left: 30px;
+	display: none;
+}
+button{
+	
+ width: 150px;
+ height: 40px;
+}
+
+.colorChng{
+	animation-name: colorchange;
+animation-delay: 0s;
+animation-duration: 2s;
+animation-timing-function: ease;
+animation-fill-mode: forwards;
+}
+
+@keyframes colorchange{
+   /* from {background-color: white; left: 10px}
+    to {background-color: red; left: 20px}*/
+    0%{ background-color: white; }
+    50%{background-color: yellow;}
+    100%{background-color: red}
+}
+
+.colorChng1{
+	animation-name: colorchange1;
+animation-delay: 0s;
+animation-duration: 2s;
+animation-timing-function: ease;
+animation-fill-mode: forwards;
+}
+
+@keyframes colorchange1{
+    from {background-color: red}
+    to {background-color: white}
+}

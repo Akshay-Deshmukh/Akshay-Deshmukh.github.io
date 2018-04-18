@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
+		<title>Game</title>
+		<!-- <canvas id="myCanvas" width="1000" height="700" tabindex="0" style="background-image:url('sky1.jpg')" >Canvas tag not supported</canvas>
+		<script src="scriptgame.js"></script> -->
+		<style>
+			.btncls{background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 5px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    float: right;
+    
+
+			}
+
+			ul{
+				display: inline-block;
+				
+				margin-right: 10px;
+			}
+		</style>
+	</head>
+	<body>
+
+	<div>
+	<div class="jumbotron" align="center">
+	<h1>Minion Game</h1>
+	<a href="../index.html"><button type="button" class="btn btn-success">Go Back</button></a>
+
+	<a href="#demo" class="btn btn-info" data-toggle="collapse" style="background-color:#898276">Game Info!</a>
+  <div id="demo" class="collapse">
+    <p>Collect Fruit in the basket</p>
+    <p>For every fruit collectd in basket 1 score is added</p>
+    <p>If a fruit falls on head score is subtracted</p>
+    <p>Time limit 7min for the game</p>
+     <p>Good Luck!</p>
+
+  </div>
+  </div>
+	</div>
+	<span id="dummy"></span> 
+
+	
+
+	<div>
+	<ul>
+	<button type="button" onclick="restart()" class="btncls">Restart Game</button>
+	<button type="button" onclick="SoundOff()" class="btncls">Sound Off</button>
+	<button type="button" onclick="SoundOn()" class="btncls">Sound On</button>
+	
+	
+	</ul>
+	</div>
+	<div>
+	<canvas id="myCanvas" width="900" height="900" tabindex="0" style="background-image:url('sky.jpg')" >
+	</canvas>
+
+		<script src="scriptgame.js"></script>
+		<div style="float: right;">
+	<img src="sad.gif" alt="Smiley face"  style=" display: none; " id="d">
+	<img src="mini.gif" alt="Smiley face"  style=" display: none; " id="s">
+	</div>
+	
+	
+	
+	
+
+	</div>
+	
+	</body>
+</html>

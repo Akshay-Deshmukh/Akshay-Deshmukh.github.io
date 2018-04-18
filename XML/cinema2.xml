@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Ronald room -->
+<Cinema>
+
+	<!-- row 0-->
+	<row>
+		
+		<price> 20 </price>
+		<Availability> yes </Availability>
+		<Availability2> no </Availability2>
+		<col>0</col>
+</row>
+
+<row>
+		<price> 20 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>0</col>
+</row>
+<row>
+		<price> 20 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>0</col>
+</row>
+<row>
+		<price> 20 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>0</col>
+</row>
+
+
+
+	<!-- row 1 -->
+<row>
+		<price> 20 </price>
+		<Availability> no </Availability>
+		<Availability2> no </Availability2>
+		<col>1/</col>
+
+</row>
+<row>
+
+
+		<price> 20 </price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>1</col>
+</row>
+<row>
+
+
+		<price> 20 </price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>1</col>
+</row>
+<row>
+
+
+		<price> 20 </price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>1</col>
+
+</row>
+<row>
+
+
+		<price> 20 </price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>1</col>
+
+		
+	</row>
+
+	<row>
+
+
+		<price> 20 </price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>1</col>
+
+		
+	</row>
+<!-- row 2 -->
+<row>
+
+	<price> 22 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>2</col>
+
+</row>
+<row>
+
+
+		<price> 22</price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>2</col>
+</row>
+<row>
+
+
+		<price> 22 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>2</col>
+</row>
+<row>
+
+		<price> 22</price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>2</col>
+</row>
+<row>
+
+		<price> 22</price>
+		<Availability> yes </Availability>
+		<Availability2> no </Availability2>
+		<col>2</col>
+</row>
+		<!-- row 3 -->
+<row>
+		<price> 22 </price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>3</col>
+</row>
+<row>
+		<price> 22 </price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>3</col>
+</row>
+<row>
+
+		<price> 22 </price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>3</col>
+</row>
+<row>
+
+		<price> 22 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>3</col>
+</row>
+<row>
+
+		<price> 22</price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>3</col>
+</row>
+
+		<!-- row 4 -->
+<row>
+		<price> 22 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>4</col>
+</row>
+<row>
+		<price> 22 </price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>4</col>
+</row>
+<row>
+		<price> 22 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>4</col>
+</row>
+<row>
+		<price> 22 </price>
+		<Availability> yes </Availability>
+		<Availability2> no </Availability2>
+		<col>4</col>
+</row>
+<row>
+		<price> 22</price>
+		<Availability> yes </Availability>
+		<Availability2> no </Availability2>
+		<col>4</col>
+</row>
+		<!-- row 5 -->
+<row>
+		<price> 25 </price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>5</col>
+</row>
+<row>
+
+		<price> 25</price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>5</col>
+
+</row>
+<row>
+
+		<price> 25</price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>5</col>
+
+</row>
+<row>
+
+		<price> 25 </price>
+		<Availability> yes </Availability>
+		<Availability2> no </Availability2>
+		<col>5</col>
+
+</row>
+<row>
+
+		<price> 25</price>
+		<Availability> yes </Availability>
+		<Availability2> no </Availability2>
+		<col>5</col>
+
+</row>
+
+		<!-- row 6 -->
+<row>
+		<price> 25 </price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>6</col>
+
+</row>
+<row>
+
+		<price> 25 </price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>6</col>
+
+</row>
+<row>
+
+		<price> 25 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>6</col>
+
+</row>
+<row>
+
+		<price> 25 </price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>6</col>
+
+</row>
+<row>
+
+		<price> 25</price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>6</col>
+</row>
+		<!-- row 7 -->
+
+<row>
+
+		<price> 25 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>7</col>
+
+</row>
+<row>
+
+		<price> 25 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>7</col>
+
+</row>
+<row>
+
+		<price> 25 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>7</col>
+
+</row>
+<row>
+
+		<price> 25 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>7</col>
+
+</row>
+<row>
+
+		<price> 25</price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>7</col>
+
+</row>
+
+		<!-- row 8 -->
+<row>
+		<price> 25 </price>
+		<Availability> yes </Availability>
+		<Availability2> no </Availability2>
+		<col>8</col>
+
+</row>
+<row>
+
+		<price> 25 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>8</col>
+
+</row>
+<row>
+
+		<price> 25 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>8</col>
+
+</row>
+<row>
+
+		<price> 25 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>8</col>
+
+</row>
+<row>
+
+		<price> 25</price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>8</col>
+
+</row>
+
+		<!-- row 9 -->
+<row>
+		<price> 25 </price>
+		<Availability> yes </Availability>
+		<Availability2> no </Availability2>
+		<col>9</col>
+
+</row>
+<row>
+
+		<price> 25 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>9</col>
+
+</row>
+<row>
+
+		<price> 25 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>9</col>
+
+</row>
+<row>
+
+		<price> 25 </price>
+		<Availability> yes </Availability>
+		<Availability2> yes </Availability2>
+		<col>9</col>
+</row>
+<row>
+		<price> 25</price>
+		<Availability> no </Availability>
+		<Availability2> yes </Availability2>
+		<col>9</col>
+</row>
+
+		<!-- row 10 -->
+
+</Cinema>
